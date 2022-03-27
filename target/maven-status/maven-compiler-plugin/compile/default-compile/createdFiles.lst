@@ -1,0 +1,10 @@
+com/xupes/bookapp/payload/author/AuthorResponsePayload.class
+com/xupes/bookapp/core/config/autorization/AuthorizationConfigurationProperties.class
+com/xupes/bookapp/payload/work/WorkListResponsePayload.class
+com/xupes/bookapp/payload/work/WorkResponsePayload.class
+com/xupes/bookapp/core/CoreConfig.class
+com/xupes/bookapp/BookApp.class
+com/xupes/bookapp/core/config/resources/ResourcesConfigurationProperties.class
+com/xupes/bookapp/integration/PenguinIntegrationService.class
+com/xupes/bookapp/payload/author/AuthorResponsePayload$Work.class
+com/xupes/bookapp/payload/author/AuthorListResponsePayload.class

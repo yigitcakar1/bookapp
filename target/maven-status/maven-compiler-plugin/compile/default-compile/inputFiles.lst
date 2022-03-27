@@ -1,0 +1,9 @@
+/Users/ycakar/dev/poc/book-app/src/main/java/com/xupes/bookapp/payload/author/AuthorResponsePayload.java
+/Users/ycakar/dev/poc/book-app/src/main/java/com/xupes/bookapp/BookApp.java
+/Users/ycakar/dev/poc/book-app/src/main/java/com/xupes/bookapp/core/config/resources/ResourcesConfigurationProperties.java
+/Users/ycakar/dev/poc/book-app/src/main/java/com/xupes/bookapp/core/CoreConfig.java
+/Users/ycakar/dev/poc/book-app/src/main/java/com/xupes/bookapp/payload/work/WorkResponsePayload.java
+/Users/ycakar/dev/poc/book-app/src/main/java/com/xupes/bookapp/core/config/autorization/AuthorizationConfigurationProperties.java
+/Users/ycakar/dev/poc/book-app/src/main/java/com/xupes/bookapp/integration/PenguinIntegrationService.java
+/Users/ycakar/dev/poc/book-app/src/main/java/com/xupes/bookapp/payload/author/AuthorListResponsePayload.java
+/Users/ycakar/dev/poc/book-app/src/main/java/com/xupes/bookapp/payload/work/WorkListResponsePayload.java

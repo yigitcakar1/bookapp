@@ -1,0 +1,10 @@
+penguin:
+  url: https://reststop.randomhouse.com/resources
+  authentication:
+    username: testuser
+    password: testpassword
+  resources:
+    authors: ${penguin.url}/authors
+    works: ${penguin.url}/works
+    titles: ${penguin.url}/titles
+    events: ${penguin.url}/events
